@@ -8,7 +8,6 @@ This is a tribute page project built using HTML and CSS. The page is designed to
 - Custom styling using CSS to enhance the visual appeal.
 
 ## Tribute Page
-![Screenshot (14)](https://github.com/Preeti980/tributePage-/assets/114865373/826a60c7-97e3-40fa-a3f1-2186093fb831)
-
+![Screenshot (14)](https://github.com/Preeti980/tributePage-/assets/114865373/cfecfe6a-158e-4ae6-9948-96a98eed01da)
 
 
